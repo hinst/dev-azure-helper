@@ -1,3 +1,4 @@
+//@ts-check
 // ==UserScript==
 // @name         Azure DevOps helper
 // @namespace    http://tampermonkey.net/
