@@ -1,0 +1,33 @@
+.title-text {
+    font-size: 13px !important;
+}
+
+.wit-sprints-header-row {
+    padding-top: 4px !important;
+    padding-left: 4px !important;
+    padding-right: 4px;
+}
+
+.sprints-tabbar-header {
+    padding-left: 4px !important;
+}
+
+.sprints-header-dates {
+    margin-top: 4px !important;
+    padding-left: 4px !important;
+}
+
+.page-content-top {
+    padding: 0 14px !important;
+}
+
+.vss-FilterBar {
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+    padding-top: 0 !important;
+    padding-bottom: 4px !important;
+}
+
+.padding-vertical-16 {
+    padding: 10px 0 !important;
+}
