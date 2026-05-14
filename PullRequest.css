@@ -1,0 +1,21 @@
+/** Pull request */
+
+.repos-pr-header {
+    padding-left: 0 !important;
+    padding-top: 8px !important;
+    padding-right: 0 !important;
+    margin-bottom: 4px !important;
+}
+
+.repos-pr-details-page-tabbar {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
+
+.repos-compare-toolbar {
+    padding: 8px 16px !important;
+}
+
+.repos-changes-viewer {
+    padding: 0 8px !important;
+}
