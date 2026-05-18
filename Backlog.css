@@ -1,0 +1,13 @@
+/*
+    Backlog
+    https:\/\/dev.azure.com\/.*\/.*\/backlog.*
+*/
+
+.page-content {
+    padding: 8px 16px !important;
+}
+
+.page-content-bottom .page-content-top {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}

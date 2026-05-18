@@ -1,4 +1,7 @@
-/** Pull request */
+/*
+    Pull request
+    https:\/\/dev.azure.com\/.*\/.*\/pullrequest.*
+*/
 
 .repos-pr-header {
     padding-left: 0 !important;
